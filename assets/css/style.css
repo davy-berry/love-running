@@ -109,7 +109,7 @@ main {
 /* Sign up form*/
 #signup-form {
     color: #ffffff;
-    background-color: rgba(60, 60, 60 0.6);
+    background-color: rgba(30, 30, 30 .6);
     padding: 30px;
 }
 
@@ -340,7 +340,7 @@ main {
         position: relative;
     }
 
-    #signupform {
+    #signup-form {
         max-width: 400px;
         position: absolute;
         left: 10%;
